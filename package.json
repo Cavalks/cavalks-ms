@@ -23,6 +23,9 @@
     "url": "https://github.com/Cavalks/cavalks-ms/issues"
   },
   "homepage": "https://github.com/Cavalks/cavalks-ms#readme",
+  "dependencies": {
+    "webtorrent": "^0.98.24"
+  },
   "devDependencies": {
     "finalhandler": "^1.1.1",
     "server-static": "^2.0.5"
