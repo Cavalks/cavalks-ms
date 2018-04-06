@@ -4,6 +4,7 @@
   "description": "A simple torrent client/server based on webtorrent.",
   "main": "main.js",
   "scripts": {
+    "start": "echo \"Starting web server\" && node main.js", 
     "test": "echo \"INFO: no test specified\" && exit 0"
   },
   "repository": {
